@@ -12,7 +12,7 @@
 	url = https://github.com/nasser/mage.git
 [submodule "Assets/scene-var"]
 	path = Assets/scene-var
-	url = git@github.com:timsgardner/scene-var.git
+	url = https://github.com/timsgardner/scene-var.git
 [submodule "Assets/TextureAtlasSlicer"]
 	path = Assets/TextureAtlasSlicer
 	url = https://github.com/toxicFork/Unity3D-TextureAtlasSlicer.git
