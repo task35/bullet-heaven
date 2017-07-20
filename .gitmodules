@@ -4,3 +4,9 @@
 [submodule "Assets/magic"]
 	path = Assets/magic
 	url = https://github.com/nasser/magic.git
+[submodule "Assets/tools.analyzer"]
+	path = Assets/tools.analyzer
+	url = https://github.com/clojure/tools.analyzer
+[submodule "Assets/mage"]
+	path = Assets/mage
+	url = https://github.com/nasser/mage.git
