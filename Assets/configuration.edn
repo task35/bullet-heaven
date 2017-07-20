@@ -1,0 +1,4 @@
+{:arcadia.compiler/loadpaths ["Assets/magic",
+                              "Assets/mage"]
+ :socket-repl true
+ :nudge true}
