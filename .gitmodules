@@ -10,3 +10,6 @@
 [submodule "Assets/mage"]
 	path = Assets/mage
 	url = https://github.com/nasser/mage.git
+[submodule "Assets/scene-var"]
+	path = Assets/scene-var
+	url = git@github.com:timsgardner/scene-var.git
