@@ -1,3 +1,6 @@
 [submodule "Assets/Arcadia"]
 	path = Assets/Arcadia
 	url = https://github.com/arcadia-unity/Arcadia.git
+[submodule "Assets/magic"]
+	path = Assets/magic
+	url = https://github.com/nasser/magic.git
